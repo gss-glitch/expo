@@ -4,7 +4,7 @@ h<?xml version="1.0" encoding="UTF-8"?>
 	<comment></comment>
 	<projects>
 	</projects>
-	<buildSpec>
+	<buildSpec>ffF
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
